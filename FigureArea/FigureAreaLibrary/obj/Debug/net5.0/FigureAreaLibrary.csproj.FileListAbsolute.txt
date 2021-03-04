@@ -1,0 +1,12 @@
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/bin/Debug/net5.0/FigureAreaLibrary.deps.json
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/bin/Debug/net5.0/FigureAreaLibrary.dll
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/bin/Debug/net5.0/ref/FigureAreaLibrary.dll
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/bin/Debug/net5.0/FigureAreaLibrary.pdb
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/FigureAreaLibrary.csprojAssemblyReference.cache
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/FigureAreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/FigureAreaLibrary.AssemblyInfoInputs.cache
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/FigureAreaLibrary.AssemblyInfo.cs
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/FigureAreaLibrary.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/FigureAreaLibrary.dll
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/ref/FigureAreaLibrary.dll
+/Users/mac/Projects/FigureArea/FigureAreaLibrary/obj/Debug/net5.0/FigureAreaLibrary.pdb
